@@ -183,6 +183,7 @@ int main()
             {
                 cout << "[JOKER]";
             }
+            cout << "\t";
         }
         cout << endl;
     }
